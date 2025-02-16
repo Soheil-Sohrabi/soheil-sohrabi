@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./logo.jpg" alt="soheil logo" width="200px" />
+  <img src="./2814666.webp" alt="soheil logo" width="200px" />
 </div>
 
 <div align='center'>
