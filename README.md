@@ -4,9 +4,9 @@
 
 <div align='center'>
     <h1>
-    <a href='https://instagram.com/soufi_learn'>Soheil Sohrabi</a>
+    <a href='https://instagram.com/3oheil_3oh_33'>Soheil Sohrabi</a>
   </h1>
-  <h4>This is soheil Sohrabi! A Junior Frontend Programmer</h4>
+  <h4>This is Soheil! A Junior Frontend Programmer</h4>
 </div>
  
 ##  My Expertise 
