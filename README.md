@@ -2,7 +2,7 @@
   <img src="https://imgs.search.brave.com/HzL4YG2zgyxZ8aNcXWp_3Fn6tV_4WB0oVmsdCh4yveI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nbWFydC5jb20v/ZmlsZXMvMjIvUHJv/Z3JhbW1lci1QTkct/UGljdHVyZS5wbmc" alt="soheil logo" width="200px" />
 </div>
 <div align='center'>
-  <a style href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=900&size=50&duration=2000&pause=1000&color=bababa&width=380&height=100&lines=Soheil-Sohrabi;-Java--Script-;-HTMl-----CSS--;-Git---GitHub-" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lilita+One&size=40&letterSpacing=&duration=2000&pause=1000&color=F1DDDA&width=254&height=62&lines=Soheil-Sohrabi;-Java-Script-+;-HTMl--CSS-;-Git--GitHub-;--Bootstrap--" alt="Typing SVG" /></a>
   <h4>This is Soheil! A Junior Frontend Programmer</h4>
 </div>
  
