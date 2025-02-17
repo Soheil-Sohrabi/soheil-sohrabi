@@ -4,7 +4,7 @@
 
 <div align='center'>
     <h1>
-    <a href='https://instagram.com/3oheil_3oh_33'>Soheil Sohrabi</a>
+    <a href='https://instagram.com/3oheil_3oh_33'>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Soheil+Sohrabi;Java+Script;HTMl+%26+CSS;Git+%26+GitHub)](https://git.io/typing-svg)</a>
   </h1>
   <h4>This is Soheil! A Junior Frontend Programmer</h4>
 </div>
