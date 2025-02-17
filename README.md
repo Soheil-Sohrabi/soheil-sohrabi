@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://imgs.search.brave.com/HzL4YG2zgyxZ8aNcXWp_3Fn6tV_4WB0oVmsdCh4yveI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nbWFydC5jb20v/ZmlsZXMvMjIvUHJv/Z3JhbW1lci1QTkct/UGljdHVyZS5wbmc" alt="soheil logo" width="200px" />
 </div>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Soheil+Sohrabi;Java+Script;HTMl+%26+CSS;Git+%26+GitHub)](https://git.io/typing-svg)
 <div align='center'>
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Soheil+Sohrabi;Java+Script;HTMl+%26+CSS;Git+%26+GitHub)](https://git.io/typing-svg)
   <h4>This is Soheil! A Junior Frontend Programmer</h4>
