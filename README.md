@@ -3,7 +3,7 @@
 </div>
 <div align='center'>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lilita+One&size=40&letterSpacing=&duration=2000&pause=1000&color=B3B3B0&width=254&height=62&lines=Soheil-Sohrabi;-Java-Script-+;-HTMl--CSS-;-Git--GitHub-;--Bootstrap--" alt="Typing SVG" /></a>
-  <h4>This is Soheil! a Full Stack Developer</h4>
+  <h4>This is Soheil! a Front-End Developer</h4>
 </div>
  
 ##  My Expertise 
