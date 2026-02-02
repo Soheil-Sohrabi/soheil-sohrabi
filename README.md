@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://ih1.redbubble.net/image.3357611808.1675/farp,x_large,wall_texture,product,750x1000.u1.jpg" alt="soheil logo" width="200px" />
+  <img src="https://ih1.redbubble.net/image.3357611897.1675/st,small,507x507-pad,600x600,f8f8f8.u1.jpg" alt="soheil logo" width="200px" />
 </div>
 <div align='center'>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lilita+One&size=40&letterSpacing=&duration=2000&pause=1000&color=B3B3B0&width=254&height=62&lines=Soheil-Sohrabi;-Java-Script-+;-HTMl--CSS-;-Git--GitHub-;--Bootstrap--" alt="Typing SVG" /></a>
